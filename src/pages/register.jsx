@@ -83,7 +83,7 @@ const Register = () => {
           <option value="1">AltaVista Search</option>
           <option value="2">Super Bowl Commercial</option>
           <option value="3">Our Route 34 City bus ad</option>
-          <option value="4">The "Never Use This" podcast</option>
+          <option value="4">The &apos;Never Use This&apos; podcast</option>
         </SelectField>
 
         <Button
